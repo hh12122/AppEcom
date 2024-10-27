@@ -1,0 +1,6 @@
+{
+  "name": "Appecommerce-backend",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/Appecommerce-backend/src",
+  "tags": []
+}
